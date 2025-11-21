@@ -11,6 +11,7 @@ export default function RegistroForm() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitSuccess, setSubmitSuccess] = useState(false);
   const [submitError, setSubmitError] = useState('');
+  const [enrichmentData, setEnrichmentData] = useState<{ticketPromedio: number; segmento: string} | null>(null);
 
   const [formData, setFormData] = useState<FormData>({
     nombre: '',
@@ -64,6 +65,8 @@ export default function RegistroForm() {
         throw new Error('Error al enviar el formulario');
       }
 
+      const result = await response.json();
+      setEnrichmentData(result.enrichment);
       setSubmitSuccess(true);
       setFormData({
         nombre: '',
@@ -103,11 +106,37 @@ export default function RegistroForm() {
             </svg>
           </div>
           <h2 className="text-2xl font-bold text-gray-800 mb-2">Registro Exitoso</h2>
-          <p className="text-gray-600 mb-6">
+          <p className="text-gray-600 mb-4">
             Gracias por registrarte como aliado. Nos pondremos en contacto contigo pronto.
           </p>
+          
+          {enrichmentData && (
+            <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
+              <h3 className="text-sm font-semibold text-blue-800 mb-2">Información de Segmentación</h3>
+              <div className="space-y-2 text-sm text-gray-700">
+                <div className="flex justify-between">
+                  <span>Ticket Promedio:</span>
+                  <span className="font-semibold">${enrichmentData.ticketPromedio.toLocaleString('es-CO')}</span>
+                </div>
+                <div className="flex justify-between">
+                  <span>Segmento:</span>
+                  <span className={`px-2 py-1 rounded text-xs font-semibold ${
+                    enrichmentData.segmento === 'HIGH_TICKET' 
+                      ? 'bg-green-100 text-green-800' 
+                      : 'bg-blue-100 text-blue-800'
+                  }`}>
+                    {enrichmentData.segmento}
+                  </span>
+                </div>
+              </div>
+            </div>
+          )}
+          
           <button
-            onClick={() => setSubmitSuccess(false)}
+            onClick={() => {
+              setSubmitSuccess(false);
+              setEnrichmentData(null);
+            }}
             className="px-6 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors"
           >
             Registrar Otro Aliado
@@ -121,10 +150,20 @@ export default function RegistroForm() {
     <div className="min-h-screen bg-gray-50 py-12 px-4">
       <div className="max-w-2xl mx-auto">
         <div className="bg-white rounded-lg shadow-lg p-8">
-          <h1 className="text-3xl font-bold text-gray-800 mb-2">Registro de Aliados</h1>
-          <p className="text-gray-600 mb-8">
-            Completa el formulario para convertirte en nuestro aliado
-          </p>
+          <div className="flex justify-between items-start mb-6">
+            <div>
+              <h1 className="text-3xl font-bold text-gray-800 mb-2">Registro de Aliados</h1>
+              <p className="text-gray-600">
+                Completa el formulario para convertirte en nuestro aliado
+              </p>
+            </div>
+            <a
+              href="/dashboard"
+              className="px-4 py-2 text-sm bg-gray-100 text-gray-700 rounded-md hover:bg-gray-200 transition-colors"
+            >
+              Ver Dashboard
+            </a>
+          </div>
 
           <form onSubmit={handleSubmit} className="space-y-6">
             <div>
