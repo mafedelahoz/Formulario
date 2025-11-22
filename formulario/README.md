@@ -4,6 +4,17 @@ Sistema completo de registro de aliados con:
 - Prueba A/B para optimizar la captura de direcciones
 - Enriquecimiento automático de datos
 - Segmentación inteligente de leads
+- Análisis completo de resultados
+
+## Resultados del Experimento A/B
+
+**Variante B (Mapbox) gana con +146.54% de Lift**
+
+Después de analizar 1,000 leads simulados:
+- Variante A (Manual): 9.16% CR
+- Variante B (Mapbox): 22.59% CR
+- **Impacto especialmente fuerte en HIGH_TICKET: +185.74%**
+
 
 ## Características
 
@@ -18,6 +29,12 @@ Sistema completo de registro de aliados con:
 - **Cálculo de ticket promedio**: Inferencia automática según especialidad
 - **Segmentación inteligente**: HIGH_TICKET (>= 500k) o LOW_TICKET (< 500k)
 - **Dashboard de análisis**: Visualización de métricas y segmentos
+
+### Fase 3: Análisis de Datos
+- **Generación de datos experimentales**: Script Python con 1,000 leads simulados
+- **Análisis estadístico completo**: CR por variante, segmento y especialidad
+- **Insights de negocio**: Identificación de patrones y recomendaciones
+- **Documentación ejecutiva**: Informe completo para toma de decisiones
 - **Base de datos enriquecida**: Almacenamiento con datos calculados
 
 ## Stack Tecnológico
@@ -163,9 +180,33 @@ Accede a `/dashboard` para ver:
 - Desglose por especialidad
 - Ticket promedio general
 
-## Análisis de Resultados
+## Análisis de Resultados (Fase 3)
 
-### Vía Dashboard
+### Generar Datos del Experimento
+
+```bash
+python3 generate_experiment_data.py
+```
+
+Esto crea `experiment_data.csv` con:
+- 1,000 leads distribuidos 50/50 entre variantes A y B
+- Segmentación HIGH_TICKET y LOW_TICKET
+- Tasas de conversión simuladas
+
+### Ver Documentación Completa
+
+Lee [FASE3_ANALISIS.md](FASE3_ANALISIS.md) para:
+- Resultados detallados del experimento
+- Respuestas a preguntas de negocio
+- Insights y recomendaciones
+
+## Archivos Generados
+
+- `experiment_data.csv` - Datos completos del experimento
+- `experiment_results.png` - Gráficas principales de análisis
+- `experiment_lift_analysis.png` - Análisis visual del lift por segmento
+
+### Vía Dashboard Web
 Visita http://localhost:3000/dashboard para visualizaciones interactivas.
 
 ### Vía API

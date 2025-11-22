@@ -1,0 +1,1001 @@
+user_id,cta_version,specialty,segment,is_converted
+1,A,Medicina General,LOW_TICKET,0
+2,A,Veterinaria,LOW_TICKET,0
+3,A,Medicina General,LOW_TICKET,0
+4,A,Odontología,HIGH_TICKET,0
+5,A,Estética,HIGH_TICKET,0
+6,A,Veterinaria,LOW_TICKET,0
+7,A,Veterinaria,LOW_TICKET,0
+8,B,Odontología,HIGH_TICKET,0
+9,B,Medicina General,LOW_TICKET,0
+10,B,Veterinaria,LOW_TICKET,0
+11,B,Odontología,HIGH_TICKET,0
+12,B,Medicina General,LOW_TICKET,0
+13,B,Estética,HIGH_TICKET,1
+14,B,Estética,HIGH_TICKET,0
+15,B,Medicina General,LOW_TICKET,0
+16,A,Odontología,HIGH_TICKET,0
+17,B,Estética,HIGH_TICKET,0
+18,B,Odontología,HIGH_TICKET,0
+19,B,Odontología,HIGH_TICKET,0
+20,A,Veterinaria,LOW_TICKET,0
+21,A,Veterinaria,LOW_TICKET,0
+22,B,Medicina General,LOW_TICKET,0
+23,B,Medicina General,LOW_TICKET,0
+24,B,Veterinaria,LOW_TICKET,0
+25,B,Estética,HIGH_TICKET,1
+26,A,Estética,HIGH_TICKET,0
+27,A,Medicina General,LOW_TICKET,0
+28,A,Medicina General,LOW_TICKET,0
+29,B,Odontología,HIGH_TICKET,0
+30,A,Odontología,HIGH_TICKET,0
+31,A,Veterinaria,LOW_TICKET,0
+32,A,Odontología,HIGH_TICKET,0
+33,A,Estética,HIGH_TICKET,0
+34,B,Odontología,HIGH_TICKET,0
+35,B,Estética,HIGH_TICKET,0
+36,B,Estética,HIGH_TICKET,0
+37,A,Estética,HIGH_TICKET,0
+38,A,Estética,HIGH_TICKET,0
+39,B,Medicina General,LOW_TICKET,0
+40,A,Medicina General,LOW_TICKET,0
+41,A,Medicina General,LOW_TICKET,0
+42,A,Medicina General,LOW_TICKET,0
+43,A,Veterinaria,LOW_TICKET,0
+44,B,Odontología,HIGH_TICKET,0
+45,B,Estética,HIGH_TICKET,0
+46,B,Medicina General,LOW_TICKET,0
+47,B,Estética,HIGH_TICKET,0
+48,B,Estética,HIGH_TICKET,1
+49,B,Medicina General,LOW_TICKET,0
+50,B,Odontología,HIGH_TICKET,1
+51,A,Estética,HIGH_TICKET,0
+52,B,Medicina General,LOW_TICKET,0
+53,B,Estética,HIGH_TICKET,0
+54,B,Medicina General,LOW_TICKET,0
+55,B,Veterinaria,LOW_TICKET,0
+56,B,Veterinaria,LOW_TICKET,1
+57,B,Estética,HIGH_TICKET,0
+58,A,Medicina General,LOW_TICKET,0
+59,A,Estética,HIGH_TICKET,0
+60,B,Odontología,HIGH_TICKET,1
+61,B,Odontología,HIGH_TICKET,1
+62,B,Veterinaria,LOW_TICKET,0
+63,A,Medicina General,LOW_TICKET,0
+64,B,Odontología,HIGH_TICKET,0
+65,B,Medicina General,LOW_TICKET,0
+66,B,Odontología,HIGH_TICKET,0
+67,A,Odontología,HIGH_TICKET,0
+68,A,Odontología,HIGH_TICKET,0
+69,A,Odontología,HIGH_TICKET,1
+70,A,Odontología,HIGH_TICKET,0
+71,B,Odontología,HIGH_TICKET,1
+72,B,Medicina General,LOW_TICKET,0
+73,B,Veterinaria,LOW_TICKET,0
+74,A,Veterinaria,LOW_TICKET,0
+75,A,Medicina General,LOW_TICKET,0
+76,A,Veterinaria,LOW_TICKET,0
+77,A,Veterinaria,LOW_TICKET,1
+78,A,Estética,HIGH_TICKET,0
+79,A,Estética,HIGH_TICKET,0
+80,A,Medicina General,LOW_TICKET,0
+81,A,Odontología,HIGH_TICKET,1
+82,B,Medicina General,LOW_TICKET,0
+83,B,Odontología,HIGH_TICKET,0
+84,B,Veterinaria,LOW_TICKET,0
+85,A,Estética,HIGH_TICKET,1
+86,B,Odontología,HIGH_TICKET,0
+87,A,Medicina General,LOW_TICKET,1
+88,B,Estética,HIGH_TICKET,0
+89,A,Veterinaria,LOW_TICKET,0
+90,A,Veterinaria,LOW_TICKET,0
+91,A,Veterinaria,LOW_TICKET,0
+92,B,Veterinaria,LOW_TICKET,0
+93,A,Odontología,HIGH_TICKET,0
+94,B,Veterinaria,LOW_TICKET,0
+95,A,Estética,HIGH_TICKET,0
+96,A,Veterinaria,LOW_TICKET,1
+97,A,Veterinaria,LOW_TICKET,0
+98,A,Estética,HIGH_TICKET,0
+99,B,Medicina General,LOW_TICKET,0
+100,A,Veterinaria,LOW_TICKET,0
+101,A,Medicina General,LOW_TICKET,0
+102,A,Odontología,HIGH_TICKET,0
+103,B,Odontología,HIGH_TICKET,0
+104,B,Medicina General,LOW_TICKET,0
+105,B,Odontología,HIGH_TICKET,1
+106,A,Veterinaria,LOW_TICKET,0
+107,A,Veterinaria,LOW_TICKET,0
+108,A,Odontología,HIGH_TICKET,0
+109,B,Odontología,HIGH_TICKET,1
+110,B,Veterinaria,LOW_TICKET,1
+111,A,Veterinaria,LOW_TICKET,0
+112,B,Medicina General,LOW_TICKET,0
+113,B,Estética,HIGH_TICKET,0
+114,A,Estética,HIGH_TICKET,0
+115,A,Odontología,HIGH_TICKET,0
+116,B,Medicina General,LOW_TICKET,0
+117,B,Medicina General,LOW_TICKET,0
+118,B,Medicina General,LOW_TICKET,1
+119,B,Estética,HIGH_TICKET,0
+120,A,Medicina General,LOW_TICKET,0
+121,B,Veterinaria,LOW_TICKET,0
+122,B,Odontología,HIGH_TICKET,0
+123,A,Estética,HIGH_TICKET,0
+124,A,Odontología,HIGH_TICKET,0
+125,A,Veterinaria,LOW_TICKET,0
+126,B,Odontología,HIGH_TICKET,0
+127,B,Odontología,HIGH_TICKET,0
+128,A,Veterinaria,LOW_TICKET,0
+129,A,Estética,HIGH_TICKET,0
+130,B,Veterinaria,LOW_TICKET,0
+131,A,Estética,HIGH_TICKET,0
+132,A,Odontología,HIGH_TICKET,0
+133,A,Estética,HIGH_TICKET,0
+134,B,Medicina General,LOW_TICKET,0
+135,A,Veterinaria,LOW_TICKET,0
+136,B,Medicina General,LOW_TICKET,1
+137,B,Medicina General,LOW_TICKET,0
+138,A,Medicina General,LOW_TICKET,0
+139,A,Estética,HIGH_TICKET,0
+140,A,Estética,HIGH_TICKET,0
+141,B,Medicina General,LOW_TICKET,0
+142,B,Veterinaria,LOW_TICKET,0
+143,B,Veterinaria,LOW_TICKET,0
+144,A,Odontología,HIGH_TICKET,1
+145,A,Medicina General,LOW_TICKET,0
+146,A,Veterinaria,LOW_TICKET,1
+147,A,Estética,HIGH_TICKET,0
+148,B,Medicina General,LOW_TICKET,0
+149,B,Veterinaria,LOW_TICKET,0
+150,A,Medicina General,LOW_TICKET,0
+151,A,Odontología,HIGH_TICKET,0
+152,A,Estética,HIGH_TICKET,0
+153,B,Odontología,HIGH_TICKET,1
+154,B,Estética,HIGH_TICKET,1
+155,B,Estética,HIGH_TICKET,0
+156,B,Veterinaria,LOW_TICKET,0
+157,B,Veterinaria,LOW_TICKET,0
+158,A,Medicina General,LOW_TICKET,0
+159,A,Odontología,HIGH_TICKET,0
+160,A,Estética,HIGH_TICKET,0
+161,B,Odontología,HIGH_TICKET,0
+162,B,Estética,HIGH_TICKET,1
+163,B,Estética,HIGH_TICKET,0
+164,A,Veterinaria,LOW_TICKET,0
+165,B,Medicina General,LOW_TICKET,0
+166,A,Odontología,HIGH_TICKET,0
+167,B,Veterinaria,LOW_TICKET,0
+168,B,Medicina General,LOW_TICKET,0
+169,A,Veterinaria,LOW_TICKET,0
+170,B,Medicina General,LOW_TICKET,0
+171,A,Medicina General,LOW_TICKET,0
+172,A,Estética,HIGH_TICKET,0
+173,A,Veterinaria,LOW_TICKET,0
+174,A,Medicina General,LOW_TICKET,0
+175,B,Veterinaria,LOW_TICKET,0
+176,B,Odontología,HIGH_TICKET,0
+177,A,Medicina General,LOW_TICKET,0
+178,B,Veterinaria,LOW_TICKET,0
+179,B,Medicina General,LOW_TICKET,0
+180,A,Veterinaria,LOW_TICKET,0
+181,B,Odontología,HIGH_TICKET,0
+182,A,Estética,HIGH_TICKET,0
+183,A,Veterinaria,LOW_TICKET,0
+184,B,Estética,HIGH_TICKET,1
+185,A,Veterinaria,LOW_TICKET,0
+186,B,Medicina General,LOW_TICKET,0
+187,B,Medicina General,LOW_TICKET,0
+188,A,Medicina General,LOW_TICKET,0
+189,B,Odontología,HIGH_TICKET,0
+190,B,Odontología,HIGH_TICKET,0
+191,B,Estética,HIGH_TICKET,0
+192,B,Odontología,HIGH_TICKET,0
+193,A,Medicina General,LOW_TICKET,1
+194,A,Veterinaria,LOW_TICKET,0
+195,A,Odontología,HIGH_TICKET,0
+196,A,Veterinaria,LOW_TICKET,0
+197,B,Medicina General,LOW_TICKET,1
+198,A,Medicina General,LOW_TICKET,0
+199,B,Estética,HIGH_TICKET,0
+200,B,Odontología,HIGH_TICKET,0
+201,B,Medicina General,LOW_TICKET,0
+202,A,Odontología,HIGH_TICKET,0
+203,B,Medicina General,LOW_TICKET,0
+204,B,Medicina General,LOW_TICKET,0
+205,B,Estética,HIGH_TICKET,1
+206,A,Medicina General,LOW_TICKET,0
+207,B,Odontología,HIGH_TICKET,1
+208,A,Odontología,HIGH_TICKET,0
+209,A,Estética,HIGH_TICKET,0
+210,B,Estética,HIGH_TICKET,1
+211,B,Estética,HIGH_TICKET,0
+212,B,Veterinaria,LOW_TICKET,0
+213,B,Odontología,HIGH_TICKET,0
+214,A,Medicina General,LOW_TICKET,0
+215,A,Medicina General,LOW_TICKET,0
+216,A,Estética,HIGH_TICKET,0
+217,A,Medicina General,LOW_TICKET,0
+218,B,Medicina General,LOW_TICKET,0
+219,B,Medicina General,LOW_TICKET,0
+220,A,Veterinaria,LOW_TICKET,0
+221,A,Medicina General,LOW_TICKET,0
+222,A,Medicina General,LOW_TICKET,0
+223,B,Veterinaria,LOW_TICKET,0
+224,A,Estética,HIGH_TICKET,0
+225,A,Estética,HIGH_TICKET,0
+226,B,Estética,HIGH_TICKET,0
+227,B,Estética,HIGH_TICKET,0
+228,A,Veterinaria,LOW_TICKET,0
+229,B,Medicina General,LOW_TICKET,0
+230,A,Veterinaria,LOW_TICKET,0
+231,B,Odontología,HIGH_TICKET,0
+232,B,Odontología,HIGH_TICKET,0
+233,B,Veterinaria,LOW_TICKET,0
+234,B,Odontología,HIGH_TICKET,0
+235,A,Medicina General,LOW_TICKET,0
+236,A,Medicina General,LOW_TICKET,0
+237,A,Medicina General,LOW_TICKET,0
+238,A,Medicina General,LOW_TICKET,0
+239,A,Medicina General,LOW_TICKET,0
+240,A,Medicina General,LOW_TICKET,0
+241,B,Estética,HIGH_TICKET,0
+242,A,Estética,HIGH_TICKET,0
+243,A,Estética,HIGH_TICKET,0
+244,A,Medicina General,LOW_TICKET,1
+245,A,Odontología,HIGH_TICKET,0
+246,B,Odontología,HIGH_TICKET,0
+247,A,Estética,HIGH_TICKET,0
+248,A,Veterinaria,LOW_TICKET,0
+249,A,Medicina General,LOW_TICKET,0
+250,A,Medicina General,LOW_TICKET,0
+251,A,Odontología,HIGH_TICKET,0
+252,A,Medicina General,LOW_TICKET,0
+253,A,Odontología,HIGH_TICKET,0
+254,B,Veterinaria,LOW_TICKET,0
+255,B,Estética,HIGH_TICKET,0
+256,A,Estética,HIGH_TICKET,1
+257,A,Estética,HIGH_TICKET,0
+258,B,Veterinaria,LOW_TICKET,0
+259,B,Estética,HIGH_TICKET,0
+260,B,Estética,HIGH_TICKET,0
+261,B,Veterinaria,LOW_TICKET,0
+262,B,Veterinaria,LOW_TICKET,0
+263,B,Veterinaria,LOW_TICKET,0
+264,A,Estética,HIGH_TICKET,0
+265,B,Estética,HIGH_TICKET,0
+266,A,Medicina General,LOW_TICKET,0
+267,A,Odontología,HIGH_TICKET,1
+268,A,Estética,HIGH_TICKET,0
+269,B,Veterinaria,LOW_TICKET,0
+270,A,Estética,HIGH_TICKET,0
+271,A,Estética,HIGH_TICKET,0
+272,A,Estética,HIGH_TICKET,0
+273,A,Medicina General,LOW_TICKET,0
+274,A,Medicina General,LOW_TICKET,0
+275,B,Veterinaria,LOW_TICKET,0
+276,A,Medicina General,LOW_TICKET,0
+277,A,Medicina General,LOW_TICKET,0
+278,A,Medicina General,LOW_TICKET,0
+279,B,Estética,HIGH_TICKET,0
+280,B,Estética,HIGH_TICKET,0
+281,B,Veterinaria,LOW_TICKET,0
+282,A,Veterinaria,LOW_TICKET,0
+283,B,Estética,HIGH_TICKET,0
+284,B,Medicina General,LOW_TICKET,0
+285,A,Veterinaria,LOW_TICKET,0
+286,B,Veterinaria,LOW_TICKET,0
+287,A,Estética,HIGH_TICKET,0
+288,A,Estética,HIGH_TICKET,0
+289,A,Estética,HIGH_TICKET,1
+290,B,Estética,HIGH_TICKET,0
+291,B,Odontología,HIGH_TICKET,0
+292,B,Estética,HIGH_TICKET,0
+293,B,Veterinaria,LOW_TICKET,0
+294,B,Veterinaria,LOW_TICKET,0
+295,B,Odontología,HIGH_TICKET,1
+296,A,Medicina General,LOW_TICKET,1
+297,A,Medicina General,LOW_TICKET,0
+298,B,Medicina General,LOW_TICKET,1
+299,A,Veterinaria,LOW_TICKET,0
+300,B,Estética,HIGH_TICKET,1
+301,A,Medicina General,LOW_TICKET,0
+302,B,Estética,HIGH_TICKET,1
+303,A,Veterinaria,LOW_TICKET,0
+304,A,Medicina General,LOW_TICKET,0
+305,B,Medicina General,LOW_TICKET,0
+306,A,Estética,HIGH_TICKET,0
+307,B,Estética,HIGH_TICKET,1
+308,B,Veterinaria,LOW_TICKET,0
+309,A,Medicina General,LOW_TICKET,0
+310,A,Veterinaria,LOW_TICKET,0
+311,B,Estética,HIGH_TICKET,0
+312,A,Estética,HIGH_TICKET,0
+313,A,Estética,HIGH_TICKET,0
+314,A,Estética,HIGH_TICKET,0
+315,A,Veterinaria,LOW_TICKET,0
+316,A,Medicina General,LOW_TICKET,0
+317,A,Odontología,HIGH_TICKET,0
+318,B,Estética,HIGH_TICKET,0
+319,A,Veterinaria,LOW_TICKET,0
+320,B,Medicina General,LOW_TICKET,0
+321,B,Estética,HIGH_TICKET,0
+322,B,Odontología,HIGH_TICKET,1
+323,B,Odontología,HIGH_TICKET,1
+324,A,Odontología,HIGH_TICKET,0
+325,B,Odontología,HIGH_TICKET,0
+326,A,Medicina General,LOW_TICKET,0
+327,A,Odontología,HIGH_TICKET,0
+328,B,Odontología,HIGH_TICKET,0
+329,A,Veterinaria,LOW_TICKET,0
+330,B,Estética,HIGH_TICKET,0
+331,B,Veterinaria,LOW_TICKET,1
+332,A,Estética,HIGH_TICKET,0
+333,A,Odontología,HIGH_TICKET,0
+334,B,Medicina General,LOW_TICKET,0
+335,A,Veterinaria,LOW_TICKET,0
+336,A,Estética,HIGH_TICKET,0
+337,B,Estética,HIGH_TICKET,0
+338,B,Odontología,HIGH_TICKET,0
+339,B,Medicina General,LOW_TICKET,0
+340,B,Estética,HIGH_TICKET,1
+341,B,Odontología,HIGH_TICKET,0
+342,A,Medicina General,LOW_TICKET,0
+343,A,Estética,HIGH_TICKET,0
+344,B,Odontología,HIGH_TICKET,1
+345,A,Estética,HIGH_TICKET,0
+346,B,Estética,HIGH_TICKET,1
+347,A,Medicina General,LOW_TICKET,0
+348,B,Medicina General,LOW_TICKET,0
+349,A,Estética,HIGH_TICKET,0
+350,B,Veterinaria,LOW_TICKET,0
+351,B,Medicina General,LOW_TICKET,0
+352,A,Medicina General,LOW_TICKET,0
+353,A,Odontología,HIGH_TICKET,0
+354,B,Medicina General,LOW_TICKET,0
+355,B,Medicina General,LOW_TICKET,0
+356,A,Estética,HIGH_TICKET,0
+357,A,Medicina General,LOW_TICKET,0
+358,B,Medicina General,LOW_TICKET,0
+359,A,Medicina General,LOW_TICKET,0
+360,B,Medicina General,LOW_TICKET,0
+361,B,Veterinaria,LOW_TICKET,0
+362,B,Odontología,HIGH_TICKET,1
+363,A,Odontología,HIGH_TICKET,0
+364,A,Veterinaria,LOW_TICKET,0
+365,A,Medicina General,LOW_TICKET,0
+366,A,Odontología,HIGH_TICKET,0
+367,A,Medicina General,LOW_TICKET,0
+368,B,Veterinaria,LOW_TICKET,1
+369,B,Odontología,HIGH_TICKET,0
+370,A,Medicina General,LOW_TICKET,0
+371,A,Estética,HIGH_TICKET,0
+372,B,Odontología,HIGH_TICKET,0
+373,A,Estética,HIGH_TICKET,0
+374,A,Veterinaria,LOW_TICKET,0
+375,A,Estética,HIGH_TICKET,0
+376,B,Odontología,HIGH_TICKET,0
+377,B,Estética,HIGH_TICKET,0
+378,B,Estética,HIGH_TICKET,1
+379,B,Veterinaria,LOW_TICKET,0
+380,A,Veterinaria,LOW_TICKET,0
+381,B,Estética,HIGH_TICKET,0
+382,A,Estética,HIGH_TICKET,0
+383,A,Veterinaria,LOW_TICKET,0
+384,A,Medicina General,LOW_TICKET,0
+385,B,Odontología,HIGH_TICKET,0
+386,A,Odontología,HIGH_TICKET,0
+387,A,Medicina General,LOW_TICKET,0
+388,B,Odontología,HIGH_TICKET,0
+389,A,Medicina General,LOW_TICKET,0
+390,B,Veterinaria,LOW_TICKET,0
+391,A,Veterinaria,LOW_TICKET,0
+392,B,Medicina General,LOW_TICKET,0
+393,B,Odontología,HIGH_TICKET,0
+394,A,Medicina General,LOW_TICKET,0
+395,B,Veterinaria,LOW_TICKET,0
+396,B,Medicina General,LOW_TICKET,0
+397,A,Medicina General,LOW_TICKET,0
+398,A,Veterinaria,LOW_TICKET,0
+399,A,Veterinaria,LOW_TICKET,0
+400,A,Veterinaria,LOW_TICKET,1
+401,A,Estética,HIGH_TICKET,0
+402,A,Odontología,HIGH_TICKET,1
+403,B,Medicina General,LOW_TICKET,1
+404,B,Odontología,HIGH_TICKET,0
+405,B,Odontología,HIGH_TICKET,0
+406,A,Veterinaria,LOW_TICKET,0
+407,A,Medicina General,LOW_TICKET,0
+408,B,Odontología,HIGH_TICKET,0
+409,A,Veterinaria,LOW_TICKET,0
+410,B,Odontología,HIGH_TICKET,1
+411,A,Medicina General,LOW_TICKET,0
+412,B,Veterinaria,LOW_TICKET,0
+413,B,Medicina General,LOW_TICKET,0
+414,A,Estética,HIGH_TICKET,0
+415,A,Medicina General,LOW_TICKET,0
+416,A,Odontología,HIGH_TICKET,0
+417,A,Medicina General,LOW_TICKET,0
+418,A,Medicina General,LOW_TICKET,0
+419,A,Odontología,HIGH_TICKET,0
+420,B,Odontología,HIGH_TICKET,0
+421,A,Medicina General,LOW_TICKET,0
+422,A,Veterinaria,LOW_TICKET,0
+423,A,Odontología,HIGH_TICKET,0
+424,B,Estética,HIGH_TICKET,1
+425,A,Estética,HIGH_TICKET,0
+426,A,Estética,HIGH_TICKET,0
+427,A,Veterinaria,LOW_TICKET,0
+428,A,Odontología,HIGH_TICKET,0
+429,A,Veterinaria,LOW_TICKET,0
+430,B,Veterinaria,LOW_TICKET,0
+431,B,Odontología,HIGH_TICKET,0
+432,B,Estética,HIGH_TICKET,0
+433,B,Odontología,HIGH_TICKET,0
+434,A,Estética,HIGH_TICKET,0
+435,A,Estética,HIGH_TICKET,0
+436,A,Medicina General,LOW_TICKET,0
+437,B,Odontología,HIGH_TICKET,0
+438,B,Veterinaria,LOW_TICKET,1
+439,B,Estética,HIGH_TICKET,0
+440,A,Odontología,HIGH_TICKET,0
+441,A,Estética,HIGH_TICKET,0
+442,A,Medicina General,LOW_TICKET,0
+443,B,Odontología,HIGH_TICKET,0
+444,A,Estética,HIGH_TICKET,0
+445,B,Odontología,HIGH_TICKET,0
+446,A,Veterinaria,LOW_TICKET,0
+447,A,Odontología,HIGH_TICKET,1
+448,B,Medicina General,LOW_TICKET,0
+449,B,Medicina General,LOW_TICKET,0
+450,A,Veterinaria,LOW_TICKET,0
+451,A,Medicina General,LOW_TICKET,0
+452,B,Veterinaria,LOW_TICKET,0
+453,A,Estética,HIGH_TICKET,0
+454,B,Veterinaria,LOW_TICKET,0
+455,A,Estética,HIGH_TICKET,1
+456,A,Odontología,HIGH_TICKET,1
+457,A,Estética,HIGH_TICKET,0
+458,B,Estética,HIGH_TICKET,1
+459,B,Medicina General,LOW_TICKET,0
+460,B,Medicina General,LOW_TICKET,0
+461,A,Veterinaria,LOW_TICKET,0
+462,A,Veterinaria,LOW_TICKET,0
+463,A,Veterinaria,LOW_TICKET,0
+464,A,Medicina General,LOW_TICKET,1
+465,B,Odontología,HIGH_TICKET,0
+466,A,Medicina General,LOW_TICKET,0
+467,A,Odontología,HIGH_TICKET,0
+468,B,Odontología,HIGH_TICKET,0
+469,B,Odontología,HIGH_TICKET,0
+470,B,Estética,HIGH_TICKET,0
+471,B,Odontología,HIGH_TICKET,0
+472,B,Odontología,HIGH_TICKET,1
+473,A,Veterinaria,LOW_TICKET,0
+474,A,Medicina General,LOW_TICKET,0
+475,B,Odontología,HIGH_TICKET,0
+476,A,Medicina General,LOW_TICKET,1
+477,A,Medicina General,LOW_TICKET,1
+478,A,Veterinaria,LOW_TICKET,0
+479,B,Odontología,HIGH_TICKET,0
+480,B,Veterinaria,LOW_TICKET,0
+481,A,Odontología,HIGH_TICKET,0
+482,B,Veterinaria,LOW_TICKET,1
+483,A,Odontología,HIGH_TICKET,0
+484,A,Estética,HIGH_TICKET,0
+485,B,Veterinaria,LOW_TICKET,0
+486,B,Veterinaria,LOW_TICKET,0
+487,A,Veterinaria,LOW_TICKET,0
+488,B,Estética,HIGH_TICKET,0
+489,B,Medicina General,LOW_TICKET,0
+490,B,Estética,HIGH_TICKET,0
+491,B,Medicina General,LOW_TICKET,0
+492,B,Odontología,HIGH_TICKET,0
+493,B,Estética,HIGH_TICKET,0
+494,B,Medicina General,LOW_TICKET,0
+495,B,Medicina General,LOW_TICKET,0
+496,B,Medicina General,LOW_TICKET,0
+497,B,Medicina General,LOW_TICKET,0
+498,B,Odontología,HIGH_TICKET,1
+499,A,Medicina General,LOW_TICKET,0
+500,B,Veterinaria,LOW_TICKET,0
+501,B,Veterinaria,LOW_TICKET,0
+502,A,Odontología,HIGH_TICKET,0
+503,A,Odontología,HIGH_TICKET,0
+504,B,Odontología,HIGH_TICKET,1
+505,B,Medicina General,LOW_TICKET,0
+506,A,Odontología,HIGH_TICKET,0
+507,B,Veterinaria,LOW_TICKET,0
+508,A,Estética,HIGH_TICKET,0
+509,B,Veterinaria,LOW_TICKET,0
+510,B,Odontología,HIGH_TICKET,0
+511,A,Odontología,HIGH_TICKET,0
+512,B,Estética,HIGH_TICKET,0
+513,B,Estética,HIGH_TICKET,0
+514,B,Veterinaria,LOW_TICKET,0
+515,A,Odontología,HIGH_TICKET,0
+516,A,Medicina General,LOW_TICKET,0
+517,A,Estética,HIGH_TICKET,0
+518,A,Estética,HIGH_TICKET,0
+519,B,Veterinaria,LOW_TICKET,0
+520,A,Veterinaria,LOW_TICKET,1
+521,A,Estética,HIGH_TICKET,0
+522,A,Odontología,HIGH_TICKET,0
+523,B,Veterinaria,LOW_TICKET,0
+524,A,Odontología,HIGH_TICKET,0
+525,A,Odontología,HIGH_TICKET,0
+526,B,Odontología,HIGH_TICKET,0
+527,A,Veterinaria,LOW_TICKET,0
+528,A,Odontología,HIGH_TICKET,0
+529,B,Veterinaria,LOW_TICKET,0
+530,B,Medicina General,LOW_TICKET,0
+531,A,Odontología,HIGH_TICKET,0
+532,A,Odontología,HIGH_TICKET,0
+533,B,Veterinaria,LOW_TICKET,0
+534,A,Veterinaria,LOW_TICKET,0
+535,A,Odontología,HIGH_TICKET,1
+536,A,Estética,HIGH_TICKET,0
+537,B,Veterinaria,LOW_TICKET,1
+538,A,Odontología,HIGH_TICKET,0
+539,B,Odontología,HIGH_TICKET,1
+540,B,Odontología,HIGH_TICKET,0
+541,A,Odontología,HIGH_TICKET,0
+542,A,Medicina General,LOW_TICKET,0
+543,B,Odontología,HIGH_TICKET,0
+544,A,Medicina General,LOW_TICKET,0
+545,B,Estética,HIGH_TICKET,0
+546,B,Veterinaria,LOW_TICKET,0
+547,B,Veterinaria,LOW_TICKET,0
+548,B,Estética,HIGH_TICKET,0
+549,B,Estética,HIGH_TICKET,0
+550,B,Veterinaria,LOW_TICKET,0
+551,A,Estética,HIGH_TICKET,1
+552,B,Odontología,HIGH_TICKET,0
+553,B,Medicina General,LOW_TICKET,0
+554,A,Estética,HIGH_TICKET,0
+555,B,Veterinaria,LOW_TICKET,0
+556,A,Odontología,HIGH_TICKET,0
+557,B,Veterinaria,LOW_TICKET,0
+558,A,Veterinaria,LOW_TICKET,0
+559,A,Odontología,HIGH_TICKET,0
+560,A,Estética,HIGH_TICKET,0
+561,B,Veterinaria,LOW_TICKET,0
+562,A,Veterinaria,LOW_TICKET,1
+563,B,Medicina General,LOW_TICKET,0
+564,B,Estética,HIGH_TICKET,1
+565,B,Estética,HIGH_TICKET,1
+566,B,Estética,HIGH_TICKET,0
+567,B,Veterinaria,LOW_TICKET,0
+568,A,Veterinaria,LOW_TICKET,0
+569,A,Estética,HIGH_TICKET,0
+570,B,Odontología,HIGH_TICKET,0
+571,B,Odontología,HIGH_TICKET,0
+572,B,Veterinaria,LOW_TICKET,0
+573,B,Estética,HIGH_TICKET,0
+574,A,Estética,HIGH_TICKET,0
+575,A,Odontología,HIGH_TICKET,0
+576,A,Odontología,HIGH_TICKET,0
+577,B,Estética,HIGH_TICKET,0
+578,B,Odontología,HIGH_TICKET,0
+579,B,Odontología,HIGH_TICKET,0
+580,B,Medicina General,LOW_TICKET,0
+581,B,Odontología,HIGH_TICKET,0
+582,B,Estética,HIGH_TICKET,0
+583,A,Estética,HIGH_TICKET,0
+584,A,Estética,HIGH_TICKET,0
+585,A,Veterinaria,LOW_TICKET,0
+586,B,Veterinaria,LOW_TICKET,0
+587,A,Veterinaria,LOW_TICKET,0
+588,A,Veterinaria,LOW_TICKET,0
+589,A,Medicina General,LOW_TICKET,0
+590,A,Veterinaria,LOW_TICKET,0
+591,B,Medicina General,LOW_TICKET,1
+592,B,Medicina General,LOW_TICKET,0
+593,B,Medicina General,LOW_TICKET,0
+594,B,Odontología,HIGH_TICKET,0
+595,A,Medicina General,LOW_TICKET,0
+596,A,Veterinaria,LOW_TICKET,0
+597,A,Medicina General,LOW_TICKET,0
+598,B,Odontología,HIGH_TICKET,0
+599,B,Veterinaria,LOW_TICKET,0
+600,A,Odontología,HIGH_TICKET,0
+601,A,Estética,HIGH_TICKET,0
+602,B,Estética,HIGH_TICKET,0
+603,A,Estética,HIGH_TICKET,0
+604,A,Estética,HIGH_TICKET,0
+605,A,Odontología,HIGH_TICKET,0
+606,A,Medicina General,LOW_TICKET,0
+607,B,Estética,HIGH_TICKET,0
+608,B,Odontología,HIGH_TICKET,0
+609,B,Estética,HIGH_TICKET,1
+610,A,Veterinaria,LOW_TICKET,0
+611,A,Estética,HIGH_TICKET,0
+612,A,Veterinaria,LOW_TICKET,0
+613,A,Estética,HIGH_TICKET,0
+614,A,Medicina General,LOW_TICKET,0
+615,B,Veterinaria,LOW_TICKET,1
+616,A,Medicina General,LOW_TICKET,1
+617,A,Odontología,HIGH_TICKET,0
+618,B,Medicina General,LOW_TICKET,0
+619,A,Medicina General,LOW_TICKET,0
+620,A,Veterinaria,LOW_TICKET,0
+621,A,Medicina General,LOW_TICKET,0
+622,A,Veterinaria,LOW_TICKET,0
+623,A,Medicina General,LOW_TICKET,0
+624,B,Estética,HIGH_TICKET,1
+625,B,Medicina General,LOW_TICKET,0
+626,A,Estética,HIGH_TICKET,0
+627,B,Estética,HIGH_TICKET,0
+628,A,Estética,HIGH_TICKET,0
+629,B,Veterinaria,LOW_TICKET,0
+630,B,Veterinaria,LOW_TICKET,0
+631,A,Veterinaria,LOW_TICKET,0
+632,A,Veterinaria,LOW_TICKET,0
+633,B,Veterinaria,LOW_TICKET,0
+634,A,Medicina General,LOW_TICKET,0
+635,A,Estética,HIGH_TICKET,0
+636,B,Estética,HIGH_TICKET,1
+637,A,Veterinaria,LOW_TICKET,0
+638,A,Medicina General,LOW_TICKET,0
+639,A,Veterinaria,LOW_TICKET,0
+640,A,Medicina General,LOW_TICKET,0
+641,B,Veterinaria,LOW_TICKET,0
+642,A,Odontología,HIGH_TICKET,0
+643,A,Estética,HIGH_TICKET,0
+644,B,Estética,HIGH_TICKET,1
+645,B,Odontología,HIGH_TICKET,0
+646,A,Odontología,HIGH_TICKET,0
+647,B,Odontología,HIGH_TICKET,0
+648,B,Estética,HIGH_TICKET,1
+649,A,Odontología,HIGH_TICKET,0
+650,A,Estética,HIGH_TICKET,0
+651,A,Medicina General,LOW_TICKET,0
+652,A,Estética,HIGH_TICKET,0
+653,B,Veterinaria,LOW_TICKET,1
+654,B,Medicina General,LOW_TICKET,0
+655,A,Medicina General,LOW_TICKET,0
+656,A,Estética,HIGH_TICKET,1
+657,A,Odontología,HIGH_TICKET,0
+658,B,Medicina General,LOW_TICKET,0
+659,B,Medicina General,LOW_TICKET,0
+660,B,Veterinaria,LOW_TICKET,0
+661,B,Veterinaria,LOW_TICKET,0
+662,A,Estética,HIGH_TICKET,0
+663,A,Odontología,HIGH_TICKET,0
+664,A,Odontología,HIGH_TICKET,0
+665,B,Odontología,HIGH_TICKET,0
+666,B,Estética,HIGH_TICKET,1
+667,A,Medicina General,LOW_TICKET,0
+668,B,Estética,HIGH_TICKET,0
+669,A,Estética,HIGH_TICKET,0
+670,B,Estética,HIGH_TICKET,0
+671,A,Medicina General,LOW_TICKET,0
+672,A,Odontología,HIGH_TICKET,0
+673,A,Veterinaria,LOW_TICKET,0
+674,A,Veterinaria,LOW_TICKET,0
+675,B,Odontología,HIGH_TICKET,0
+676,B,Medicina General,LOW_TICKET,0
+677,A,Estética,HIGH_TICKET,0
+678,B,Medicina General,LOW_TICKET,1
+679,B,Veterinaria,LOW_TICKET,1
+680,B,Veterinaria,LOW_TICKET,0
+681,B,Estética,HIGH_TICKET,0
+682,A,Estética,HIGH_TICKET,0
+683,B,Estética,HIGH_TICKET,0
+684,A,Estética,HIGH_TICKET,0
+685,A,Estética,HIGH_TICKET,0
+686,A,Veterinaria,LOW_TICKET,0
+687,B,Estética,HIGH_TICKET,1
+688,A,Odontología,HIGH_TICKET,0
+689,B,Odontología,HIGH_TICKET,0
+690,B,Estética,HIGH_TICKET,1
+691,B,Medicina General,LOW_TICKET,0
+692,A,Medicina General,LOW_TICKET,0
+693,A,Medicina General,LOW_TICKET,0
+694,A,Medicina General,LOW_TICKET,1
+695,A,Odontología,HIGH_TICKET,0
+696,B,Estética,HIGH_TICKET,0
+697,B,Estética,HIGH_TICKET,0
+698,A,Estética,HIGH_TICKET,0
+699,A,Veterinaria,LOW_TICKET,1
+700,B,Odontología,HIGH_TICKET,0
+701,A,Veterinaria,LOW_TICKET,0
+702,A,Estética,HIGH_TICKET,0
+703,B,Medicina General,LOW_TICKET,0
+704,B,Odontología,HIGH_TICKET,0
+705,A,Estética,HIGH_TICKET,1
+706,B,Estética,HIGH_TICKET,0
+707,A,Medicina General,LOW_TICKET,0
+708,B,Medicina General,LOW_TICKET,0
+709,A,Veterinaria,LOW_TICKET,0
+710,A,Odontología,HIGH_TICKET,0
+711,A,Odontología,HIGH_TICKET,0
+712,A,Veterinaria,LOW_TICKET,0
+713,B,Estética,HIGH_TICKET,0
+714,A,Veterinaria,LOW_TICKET,1
+715,B,Veterinaria,LOW_TICKET,0
+716,A,Odontología,HIGH_TICKET,0
+717,B,Medicina General,LOW_TICKET,0
+718,B,Estética,HIGH_TICKET,0
+719,B,Odontología,HIGH_TICKET,0
+720,B,Veterinaria,LOW_TICKET,0
+721,A,Estética,HIGH_TICKET,0
+722,B,Veterinaria,LOW_TICKET,0
+723,A,Odontología,HIGH_TICKET,0
+724,B,Medicina General,LOW_TICKET,0
+725,B,Medicina General,LOW_TICKET,0
+726,B,Odontología,HIGH_TICKET,0
+727,B,Veterinaria,LOW_TICKET,0
+728,A,Odontología,HIGH_TICKET,0
+729,B,Medicina General,LOW_TICKET,0
+730,B,Veterinaria,LOW_TICKET,0
+731,A,Odontología,HIGH_TICKET,0
+732,A,Veterinaria,LOW_TICKET,0
+733,A,Estética,HIGH_TICKET,0
+734,B,Estética,HIGH_TICKET,0
+735,B,Odontología,HIGH_TICKET,0
+736,A,Estética,HIGH_TICKET,0
+737,A,Estética,HIGH_TICKET,0
+738,B,Medicina General,LOW_TICKET,0
+739,A,Medicina General,LOW_TICKET,0
+740,B,Medicina General,LOW_TICKET,0
+741,A,Odontología,HIGH_TICKET,1
+742,B,Odontología,HIGH_TICKET,0
+743,A,Veterinaria,LOW_TICKET,0
+744,A,Odontología,HIGH_TICKET,0
+745,A,Odontología,HIGH_TICKET,0
+746,A,Veterinaria,LOW_TICKET,0
+747,A,Estética,HIGH_TICKET,1
+748,B,Odontología,HIGH_TICKET,0
+749,B,Medicina General,LOW_TICKET,0
+750,A,Veterinaria,LOW_TICKET,0
+751,A,Estética,HIGH_TICKET,0
+752,B,Veterinaria,LOW_TICKET,1
+753,A,Veterinaria,LOW_TICKET,0
+754,B,Estética,HIGH_TICKET,0
+755,B,Medicina General,LOW_TICKET,0
+756,A,Veterinaria,LOW_TICKET,0
+757,A,Odontología,HIGH_TICKET,0
+758,B,Estética,HIGH_TICKET,1
+759,A,Veterinaria,LOW_TICKET,0
+760,B,Odontología,HIGH_TICKET,1
+761,B,Odontología,HIGH_TICKET,0
+762,A,Odontología,HIGH_TICKET,0
+763,A,Veterinaria,LOW_TICKET,0
+764,A,Odontología,HIGH_TICKET,1
+765,B,Medicina General,LOW_TICKET,1
+766,B,Estética,HIGH_TICKET,1
+767,B,Odontología,HIGH_TICKET,0
+768,A,Estética,HIGH_TICKET,0
+769,A,Estética,HIGH_TICKET,0
+770,B,Odontología,HIGH_TICKET,1
+771,A,Veterinaria,LOW_TICKET,0
+772,B,Odontología,HIGH_TICKET,1
+773,B,Medicina General,LOW_TICKET,0
+774,B,Veterinaria,LOW_TICKET,1
+775,A,Medicina General,LOW_TICKET,0
+776,A,Odontología,HIGH_TICKET,0
+777,A,Medicina General,LOW_TICKET,0
+778,B,Odontología,HIGH_TICKET,0
+779,B,Veterinaria,LOW_TICKET,0
+780,A,Veterinaria,LOW_TICKET,0
+781,A,Medicina General,LOW_TICKET,0
+782,B,Estética,HIGH_TICKET,0
+783,A,Veterinaria,LOW_TICKET,0
+784,A,Medicina General,LOW_TICKET,1
+785,A,Estética,HIGH_TICKET,1
+786,B,Medicina General,LOW_TICKET,0
+787,B,Estética,HIGH_TICKET,0
+788,B,Veterinaria,LOW_TICKET,0
+789,A,Estética,HIGH_TICKET,0
+790,B,Veterinaria,LOW_TICKET,0
+791,B,Estética,HIGH_TICKET,0
+792,A,Medicina General,LOW_TICKET,0
+793,B,Estética,HIGH_TICKET,0
+794,A,Odontología,HIGH_TICKET,0
+795,A,Medicina General,LOW_TICKET,0
+796,B,Veterinaria,LOW_TICKET,0
+797,B,Medicina General,LOW_TICKET,0
+798,B,Medicina General,LOW_TICKET,0
+799,B,Odontología,HIGH_TICKET,0
+800,B,Odontología,HIGH_TICKET,0
+801,B,Veterinaria,LOW_TICKET,0
+802,B,Odontología,HIGH_TICKET,1
+803,B,Veterinaria,LOW_TICKET,0
+804,B,Odontología,HIGH_TICKET,0
+805,B,Veterinaria,LOW_TICKET,0
+806,A,Estética,HIGH_TICKET,0
+807,B,Odontología,HIGH_TICKET,0
+808,B,Veterinaria,LOW_TICKET,0
+809,A,Odontología,HIGH_TICKET,0
+810,B,Odontología,HIGH_TICKET,0
+811,A,Estética,HIGH_TICKET,0
+812,B,Medicina General,LOW_TICKET,0
+813,B,Veterinaria,LOW_TICKET,1
+814,A,Odontología,HIGH_TICKET,1
+815,A,Estética,HIGH_TICKET,0
+816,A,Veterinaria,LOW_TICKET,0
+817,B,Veterinaria,LOW_TICKET,0
+818,A,Veterinaria,LOW_TICKET,0
+819,A,Odontología,HIGH_TICKET,0
+820,A,Estética,HIGH_TICKET,1
+821,B,Odontología,HIGH_TICKET,1
+822,A,Estética,HIGH_TICKET,0
+823,A,Veterinaria,LOW_TICKET,0
+824,A,Medicina General,LOW_TICKET,0
+825,A,Estética,HIGH_TICKET,0
+826,A,Estética,HIGH_TICKET,0
+827,B,Veterinaria,LOW_TICKET,0
+828,B,Veterinaria,LOW_TICKET,0
+829,B,Veterinaria,LOW_TICKET,1
+830,A,Medicina General,LOW_TICKET,0
+831,A,Veterinaria,LOW_TICKET,0
+832,B,Veterinaria,LOW_TICKET,0
+833,A,Estética,HIGH_TICKET,0
+834,B,Odontología,HIGH_TICKET,0
+835,A,Medicina General,LOW_TICKET,0
+836,B,Odontología,HIGH_TICKET,0
+837,B,Odontología,HIGH_TICKET,0
+838,A,Odontología,HIGH_TICKET,0
+839,A,Veterinaria,LOW_TICKET,0
+840,B,Estética,HIGH_TICKET,0
+841,B,Estética,HIGH_TICKET,1
+842,A,Odontología,HIGH_TICKET,0
+843,A,Odontología,HIGH_TICKET,0
+844,B,Odontología,HIGH_TICKET,0
+845,A,Medicina General,LOW_TICKET,1
+846,B,Estética,HIGH_TICKET,0
+847,B,Veterinaria,LOW_TICKET,0
+848,A,Medicina General,LOW_TICKET,0
+849,A,Veterinaria,LOW_TICKET,0
+850,A,Medicina General,LOW_TICKET,0
+851,A,Estética,HIGH_TICKET,1
+852,A,Veterinaria,LOW_TICKET,0
+853,A,Medicina General,LOW_TICKET,0
+854,A,Estética,HIGH_TICKET,0
+855,B,Estética,HIGH_TICKET,0
+856,A,Odontología,HIGH_TICKET,0
+857,A,Odontología,HIGH_TICKET,0
+858,B,Medicina General,LOW_TICKET,0
+859,B,Veterinaria,LOW_TICKET,0
+860,B,Odontología,HIGH_TICKET,0
+861,B,Veterinaria,LOW_TICKET,0
+862,A,Estética,HIGH_TICKET,0
+863,B,Estética,HIGH_TICKET,0
+864,B,Odontología,HIGH_TICKET,1
+865,B,Estética,HIGH_TICKET,1
+866,B,Veterinaria,LOW_TICKET,0
+867,A,Medicina General,LOW_TICKET,0
+868,A,Medicina General,LOW_TICKET,0
+869,A,Veterinaria,LOW_TICKET,0
+870,A,Veterinaria,LOW_TICKET,0
+871,B,Estética,HIGH_TICKET,1
+872,B,Veterinaria,LOW_TICKET,0
+873,B,Estética,HIGH_TICKET,0
+874,B,Odontología,HIGH_TICKET,1
+875,A,Veterinaria,LOW_TICKET,0
+876,B,Medicina General,LOW_TICKET,0
+877,B,Veterinaria,LOW_TICKET,0
+878,A,Medicina General,LOW_TICKET,0
+879,A,Odontología,HIGH_TICKET,0
+880,A,Veterinaria,LOW_TICKET,0
+881,B,Veterinaria,LOW_TICKET,0
+882,A,Veterinaria,LOW_TICKET,0
+883,A,Medicina General,LOW_TICKET,1
+884,B,Odontología,HIGH_TICKET,0
+885,A,Odontología,HIGH_TICKET,0
+886,A,Veterinaria,LOW_TICKET,0
+887,A,Medicina General,LOW_TICKET,0
+888,A,Medicina General,LOW_TICKET,0
+889,B,Veterinaria,LOW_TICKET,0
+890,B,Medicina General,LOW_TICKET,1
+891,B,Medicina General,LOW_TICKET,0
+892,B,Estética,HIGH_TICKET,0
+893,A,Medicina General,LOW_TICKET,0
+894,B,Medicina General,LOW_TICKET,0
+895,A,Estética,HIGH_TICKET,0
+896,A,Estética,HIGH_TICKET,0
+897,A,Veterinaria,LOW_TICKET,1
+898,B,Estética,HIGH_TICKET,1
+899,A,Estética,HIGH_TICKET,0
+900,A,Odontología,HIGH_TICKET,0
+901,A,Odontología,HIGH_TICKET,0
+902,A,Medicina General,LOW_TICKET,0
+903,A,Veterinaria,LOW_TICKET,0
+904,B,Odontología,HIGH_TICKET,0
+905,B,Estética,HIGH_TICKET,1
+906,B,Odontología,HIGH_TICKET,0
+907,A,Odontología,HIGH_TICKET,0
+908,B,Veterinaria,LOW_TICKET,1
+909,B,Veterinaria,LOW_TICKET,0
+910,B,Veterinaria,LOW_TICKET,1
+911,A,Veterinaria,LOW_TICKET,0
+912,B,Medicina General,LOW_TICKET,0
+913,A,Odontología,HIGH_TICKET,0
+914,B,Medicina General,LOW_TICKET,0
+915,B,Odontología,HIGH_TICKET,0
+916,B,Odontología,HIGH_TICKET,0
+917,B,Veterinaria,LOW_TICKET,0
+918,B,Estética,HIGH_TICKET,1
+919,B,Medicina General,LOW_TICKET,0
+920,B,Odontología,HIGH_TICKET,1
+921,B,Estética,HIGH_TICKET,0
+922,B,Veterinaria,LOW_TICKET,0
+923,B,Veterinaria,LOW_TICKET,0
+924,B,Medicina General,LOW_TICKET,0
+925,A,Estética,HIGH_TICKET,0
+926,A,Odontología,HIGH_TICKET,0
+927,B,Odontología,HIGH_TICKET,1
+928,B,Estética,HIGH_TICKET,0
+929,A,Odontología,HIGH_TICKET,0
+930,A,Odontología,HIGH_TICKET,0
+931,B,Estética,HIGH_TICKET,0
+932,A,Estética,HIGH_TICKET,0
+933,B,Estética,HIGH_TICKET,0
+934,B,Odontología,HIGH_TICKET,1
+935,A,Estética,HIGH_TICKET,0
+936,A,Odontología,HIGH_TICKET,0
+937,A,Estética,HIGH_TICKET,0
+938,B,Medicina General,LOW_TICKET,0
+939,A,Estética,HIGH_TICKET,0
+940,B,Odontología,HIGH_TICKET,0
+941,B,Estética,HIGH_TICKET,0
+942,A,Odontología,HIGH_TICKET,0
+943,A,Estética,HIGH_TICKET,0
+944,B,Medicina General,LOW_TICKET,0
+945,A,Odontología,HIGH_TICKET,0
+946,B,Estética,HIGH_TICKET,0
+947,A,Veterinaria,LOW_TICKET,0
+948,A,Veterinaria,LOW_TICKET,0
+949,B,Veterinaria,LOW_TICKET,0
+950,B,Estética,HIGH_TICKET,0
+951,B,Odontología,HIGH_TICKET,0
+952,A,Odontología,HIGH_TICKET,0
+953,A,Estética,HIGH_TICKET,0
+954,A,Odontología,HIGH_TICKET,0
+955,B,Odontología,HIGH_TICKET,0
+956,B,Estética,HIGH_TICKET,0
+957,B,Estética,HIGH_TICKET,0
+958,B,Estética,HIGH_TICKET,0
+959,B,Estética,HIGH_TICKET,0
+960,A,Odontología,HIGH_TICKET,0
+961,A,Odontología,HIGH_TICKET,0
+962,B,Veterinaria,LOW_TICKET,0
+963,B,Odontología,HIGH_TICKET,1
+964,A,Veterinaria,LOW_TICKET,0
+965,B,Veterinaria,LOW_TICKET,0
+966,B,Medicina General,LOW_TICKET,0
+967,A,Veterinaria,LOW_TICKET,0
+968,A,Medicina General,LOW_TICKET,0
+969,A,Estética,HIGH_TICKET,0
+970,B,Veterinaria,LOW_TICKET,0
+971,A,Medicina General,LOW_TICKET,0
+972,B,Estética,HIGH_TICKET,0
+973,A,Medicina General,LOW_TICKET,0
+974,A,Estética,HIGH_TICKET,0
+975,B,Veterinaria,LOW_TICKET,0
+976,B,Veterinaria,LOW_TICKET,0
+977,A,Medicina General,LOW_TICKET,0
+978,A,Odontología,HIGH_TICKET,0
+979,B,Veterinaria,LOW_TICKET,0
+980,A,Veterinaria,LOW_TICKET,0
+981,B,Odontología,HIGH_TICKET,0
+982,B,Estética,HIGH_TICKET,0
+983,A,Odontología,HIGH_TICKET,0
+984,A,Medicina General,LOW_TICKET,0
+985,A,Odontología,HIGH_TICKET,0
+986,A,Odontología,HIGH_TICKET,0
+987,A,Medicina General,LOW_TICKET,0
+988,B,Odontología,HIGH_TICKET,0
+989,A,Veterinaria,LOW_TICKET,1
+990,A,Estética,HIGH_TICKET,0
+991,A,Medicina General,LOW_TICKET,0
+992,B,Veterinaria,LOW_TICKET,0
+993,B,Estética,HIGH_TICKET,0
+994,B,Medicina General,LOW_TICKET,0
+995,A,Odontología,HIGH_TICKET,0
+996,B,Veterinaria,LOW_TICKET,0
+997,A,Odontología,HIGH_TICKET,0
+998,A,Odontología,HIGH_TICKET,0
+999,B,Odontología,HIGH_TICKET,0
+1000,A,Odontología,HIGH_TICKET,0
