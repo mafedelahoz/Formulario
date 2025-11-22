@@ -73,7 +73,7 @@ formulario/
 │   └── migration_add_enrichment.sql  # Migración Fase 2
 ├── setup-db.js                   # Script inicial de DB
 ├── run-migration.js              # Script de migración
-└── FASE2_DOCUMENTACION.md        # Documentación detallada Fase 2
+└── FASE3_ANALISIS.md             # Documentación detallada Fase 3
 ```
 
 ## Configuración
@@ -195,7 +195,7 @@ Esto crea `experiment_data.csv` con:
 
 ### Ver Documentación Completa
 
-Lee [FASE3_ANALISIS.md](FASE3_ANALISIS.md) para:
+Lee [FASE3_ANALISIS.md](formulario/FASE3_ANALISIS.md) para:
 - Resultados detallados del experimento
 - Respuestas a preguntas de negocio
 - Insights y recomendaciones
